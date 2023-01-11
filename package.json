@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/Meli357/Node-exercises/issues"
   },
-  "homepage": "https://github.com/Meli357/Node-exercises#readme"
+  "homepage": "https://github.com/Meli357/Node-exercises#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
 }
